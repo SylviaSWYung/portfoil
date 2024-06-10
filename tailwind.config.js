@@ -8,7 +8,9 @@ export default {
       colors:{
         'light-pink': '#DAABB5',
         'dark-pink': '#B66878',
-        'text-pink': '#3B0D0D'
+        'text-pink': '#3B0D0D',
+        'subtle-pink': '#C98895',
+        'clicked-pink': '#EFC3CA',
       },
     },
   },
