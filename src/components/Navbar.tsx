@@ -14,7 +14,7 @@ export function Navbar(){
     };
 
     return(
-        <nav className="fixed z-50 h-20 border-b border-dark-pink flex p-4 w-full">
+        <nav className="fixed z-50 h-20 border-b border-dark-pink bg-light-pink flex p-4 w-full">
             <div className="flex flex-wrap md:flex-nowrap items-center justify-between w-full mx-auto md:p-4">
                 <div>
                     <h1 className="flex items-center self-center text-text-pink text-2xl md:text-3xl tracking-wide ml-4">Sylvia Suet Wai Yung</h1>
