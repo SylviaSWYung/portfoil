@@ -1,7 +1,7 @@
 import './index.css'
 import { Navbar } from './components/Navbar';
 import { Profile } from './components/Profile';
-// import { HeaderPicture } from './components/Headerpicture';
+import { Headerpicture } from './components/Headerpicture';
 
 
 function App() {
@@ -10,7 +10,7 @@ function App() {
     <>
       <Navbar/>
       <Profile/>
-      {/* <HeaderPicture/> */}
+      <Headerpicture/>
     </>
   )
 }
