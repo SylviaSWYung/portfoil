@@ -6,14 +6,10 @@ I've utilized Tailwind, JavaScript, and React for this project.
 As of now, the project is still ***under construction*** and not yet complete. 
 However, I hope it provides a glimpse of my capabilities.
 
----
-
 ## Skills used
 - React 
 - JavaScript 
 - Tailwind
-
----
 
 ## Other Information 
 Below is an image of how the website is intended to look.
