@@ -14,6 +14,8 @@ However, I hope it provides a glimpse of my capabilities.
 ## Other Information 
 Below is an image of how the website is intended to look.
 
+![picture of how website is intended to look](./public/homepage.png)
+
 
 
 
